@@ -1,6 +1,6 @@
 # small inventory system
 
-This is an inventory management project in c++
+This is an inventory management project. The code is written in C#.
 
 Project Details-
 
